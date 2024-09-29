@@ -1,10 +1,10 @@
 Hexashop E-commerce Website (Laravel)
 Watch the Project Walkthrough on YouTube
 
-Project Overview
+## Project Overview
 Hexashop is an e-commerce platform built with Laravel, designed to handle various aspects of an online store, including product management, user authentication, payments, and more. This project provides an intuitive interface for both administrators and users, with distinct authentication for each.
 
-Purchasing Process Description for the E-commerce Site:
+## Purchasing Process Description for the E-commerce Site:
 The purchasing process on the site involves selecting products based on the user's preferences. Here's a step-by-step breakdown:
 
 Product Selection: Users browse through products and choose specific options like color and quantity.
@@ -16,7 +16,7 @@ Online Payment: Pay instantly through a secure payment gateway integrated with t
 Order Submission: After selecting the payment method, the order details are saved in the system.
 Admin Communication: The admin has access to the order details and will review the user's information, contact them if necessary, and ensure smooth order processing for the best service.
 
-Features
+## Features
 1. Online Payment
 Integrated with MyFatoorah for seamless payment processing.
 Users can easily pay for their orders using secure, efficient online payment gateways.
