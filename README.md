@@ -1,4 +1,5 @@
-Hexashop E-commerce Website (Laravel)
+<h1 align="center"> Hexashop E-commerce Website (Laravel) </h1>
+<br>
 Watch the Project Walkthrough on YouTube
 
 ## Project Overview
